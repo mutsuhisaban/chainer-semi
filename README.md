@@ -21,6 +21,7 @@ GitHubの入り方(by tokuda)
 - test - by Kawamura
 - test -by okada
 - test - by Kawamura
+- test - by Ban （参加できておらずごめんなさい！リモート参戦増やせるよう尽力します）
 - terrible english
 -　HI
 - and Muranushi
