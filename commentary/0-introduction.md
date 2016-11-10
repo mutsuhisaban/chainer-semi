@@ -8,8 +8,8 @@ Chainer Playgroundはこちら　https://play.chainer.org/
 Chainer Playgroundは、1/1/2節を動かしてみたあと、1/2節をすべて攻略する、という順序でやれば、Chainerの仕組みが先に分かるので、おすすめです。
 
 
-https://play.chainer.org/book/1/1/2
-https://play.chainer.org/book/1/2/1
+- https://play.chainer.org/book/1/1/2
+- https://play.chainer.org/book/1/2/1
 
 
 Chainer Playgroundはある程度のPythonの知識を前提としています。Pythonについてじっくり学びたい方は、Codecademy でPythonのコースを進めるのもよいです。 https://www.codecademy.com/learn/python
@@ -33,8 +33,8 @@ Chainer Playgroundはある程度のPythonの知識を前提としています�
 
 # Python攻略法
 最終的には公式のドキュメントが頼りになります
-Python2.7 ドキュメント http://docs.python.jp/2.7/index.html
-Chainer ドキュメント　http://docs.chainer.org/en/stable/
+- Python2.7 ドキュメント http://docs.python.jp/2.7/index.html
+- Chainer ドキュメント　http://docs.chainer.org/en/stable/
 
 
 ## ある変数の正体を調べたいとき： print, type, dir
