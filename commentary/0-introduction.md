@@ -2,7 +2,7 @@
 BBT宇宙天気予報研究会では、1日あたり１．５TBのペースで取得されている膨大な太陽観測データを利用して、太陽の未来を予測する手段を創り出そうとしています。そのための手段として、深層学習を使います。深層学習を学ぶために、Preferred Networks社が開発している深層学習ライブラリChainer,およびChainerがブラウザ上で学習できるChainer Playgroundを使います。
 
 
-Chainer Playgroundはこちら　[こちら](https://play.chainer.org/){:target="_blank"}
+Chainer Playgroundはこちら　https://play.chainer.org/
 
 
 Chainer Playgroundは、1/1/2節を動かしてみたあと、1/2節をすべて攻略する、という順序でやれば、Chainerの仕組みが先に分かるので、おすすめです。
